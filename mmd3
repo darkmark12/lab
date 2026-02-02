@@ -18,6 +18,8 @@ def reducer(mapped_data):
 
 mapped=mapper(df)
 average_age=reducer(mapped)
+
+print("<......23BDA012.......>")
 print("Average Age of Titanic passengers:",round(average_age,2))
 
 
